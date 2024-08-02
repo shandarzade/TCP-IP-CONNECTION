@@ -7,15 +7,26 @@
 
 ## How to run program 
 
+1. Dev dependencies
+     ```bash
+     npm install
+     npm i jest
+     ```
+
+      ```bash
+     npm i jest
+     ```
+
 2. Run File
 
     - Start the program using the following command:
+
      ```bash
      npm run dev
      ```
  
 
-4. Test file
+3. Test file
 
     - Comprehensive unit tests for the Device manager class are located in the test folder.
 
@@ -23,5 +34,4 @@
 
     ```bash
     npx jest
-    ```
-    
+    ```  
