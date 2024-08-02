@@ -1,4 +1,4 @@
-// src/DeviceManager.js
+
 const Device = require('./Device');
 
 class DeviceManager {

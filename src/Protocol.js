@@ -1,4 +1,4 @@
-// src/Protocol.js
+
 class Protocol {
     read(client) {
         throw new Error('Method not implemented.');
